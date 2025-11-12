@@ -32,7 +32,7 @@ Desktop application for simulating different stochastic processes - built with t
 Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/yourusername/Stochastic-Process-Simulator.git
+git clone https://github.com/SimonGFleet/Stochastic-Process-Simulator.git
 cd Stochastics-Process-Simulator
 pip install -r requirements.txt
 python main.py
