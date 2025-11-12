@@ -10,17 +10,17 @@ Desktop application for simulating different stochastic processes - built with t
 - Brownian Sheet
 - Geometric Brownian Motion
 - Random Walk
-- Ornstein–Uhlenbeck Process
+- Ornstein–Uhlenbeck Process  
 **Plotting Types**
 - Instant
 - Live Animations
-- Histograms of Final Values
+- Histograms of Final Values  
 **Live Statistics**
-- View how quadratic variation and other statistics vary depending on the type of process and its parameters
+- View how quadratic variation and other statistics vary depending on the type of process and its parameters  
 **Parameter Controls**
-- Adjust drift, volatility, number of steps, number of paths
+- Adjust drift, volatility, number of steps, number of paths  
 **Modular Code Structure**
-- Easily add more stochastic processes or plotting methods with minimal changes
+- Easily add more stochastic processes or plotting methods with minimal changes  
 
 
 ## Installation
